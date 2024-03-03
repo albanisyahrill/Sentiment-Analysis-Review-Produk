@@ -24,9 +24,10 @@ Project ini menggunakan model Machine Learning yang telah dilatih untuk menganal
     - Melacak metrik akurasi selama pelatihan.
 
 4. **Evaluasi Model**:
+    - Memplotting metrik akurasi dan loss pada saat training.
     - Mengukur akurasi pada data validasi.
     - Melihat metrik loss untuk mengevaluasi performa model.
-    - Menginput teks baru untuk melihat output prediksi dari model yang telah ditraining
+    - Menginput teks baru untuk melihat output prediksi dari model yang telah ditraining.
 
 ## Dataset
 
