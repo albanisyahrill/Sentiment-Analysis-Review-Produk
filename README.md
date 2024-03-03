@@ -1,4 +1,4 @@
-# Sentiment Analysis menggunakan Machine Learning dengan TensorFlow
+# Sentiment Analysis Review Produk menggunakan Machine Learning dengan TensorFlow
 
 Ini adalah project Sentiment Analysis sederhana menggunakan Machine Learning dengan TensorFlow. Tujuan dari project ini adalah untuk mengklasifikasikan sentimen positif atau negatif dari teks yang diberikan.
 
