@@ -15,7 +15,7 @@ Project ini menggunakan model Machine Learning yang telah dilatih untuk menganal
 2. **Pembuatan Model**:
     - Sequential Model dengan beberapa layer Dense.
     - Layer Embedding untuk mengubah teks menjadi vektor.
-    - Layer LSTM untuk memahami konteks sekuensial dalam teks.
+    - Layer Bidirectional LSTM untuk memahami konteks sekuensial dalam teks secara maju dan mundur.
     - Layer Dense dengan fungsi aktivasi sigmoid untuk output binary (positif/negatif).
 
 3. **Pelatihan Model**:
