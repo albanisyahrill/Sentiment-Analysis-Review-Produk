@@ -1,6 +1,4 @@
-# Sentiment Analysis Review Produk menggunakan Machine Learning dengan TensorFlow
-
-Ini adalah project Sentiment Analysis sederhana menggunakan Machine Learning dengan TensorFlow. Tujuan dari project ini adalah untuk mengklasifikasikan sentimen positif atau negatif dari teks yang diberikan.
+# Sentiment Analysis Review Produk dengan TensorFlow
 
 ## Deskripsi
 
@@ -21,12 +19,11 @@ Project ini menggunakan model Machine Learning yang telah dilatih untuk menganal
 3. **Pelatihan Model**:
     - Menggunakan metode Adam untuk optimasi.
     - Menggunakan binary crossentropy sebagai loss function.
-    - Melacak metrik akurasi selama pelatihan.
+    - Melacak metrik accuracy dan loss selama pelatihan.
 
 4. **Evaluasi Model**:
     - Memplotting metrik akurasi dan loss pada saat training.
-    - Mengukur akurasi pada data validasi.
-    - Melihat metrik loss untuk mengevaluasi performa model.
+    - Mengukur metrik accuracy dan loss pada data validasi.
     - Menginput teks baru untuk melihat output prediksi dari model yang telah ditraining.
 
 ## Dataset
